@@ -1,2 +1,3 @@
-# editor-pro
+# EditorPro
+
 A modern editor for markdown
